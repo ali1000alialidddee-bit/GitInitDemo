@@ -9,5 +9,7 @@ public class Student
     public void PrintInfo()
     {
         Console.WriteLine($"Name: {Name}, Age: {Age}");
+        Console.WriteLine($"Change of commit 4");
+
     }
 }
